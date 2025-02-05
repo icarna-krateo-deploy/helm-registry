@@ -3,7 +3,7 @@ entries:
   nginx-chart:
   - apiVersion: v2
     appVersion: 1.21.1
-    created: "2025-02-05T20:27:09.249627+01:00"
+    created: "2025-02-05T20:29:19.343364+01:00"
     description: Helm Chart per un'istanza di Nginx con una pagina HTML personalizzata
     digest: 6c19e2b29942bcc40ea39acf481297b0204e62a02d38914cc6a2b1b2b46f91db
     name: nginx-chart
@@ -11,4 +11,4 @@ entries:
     urls:
     - https://krateo-deploy.github.io/helm-registry/nginx-chart-0.1.0.tgz
     version: 0.1.0
-generated: "2025-02-05T20:27:09.248787+01:00"
+generated: "2025-02-05T20:29:19.342773+01:00"
