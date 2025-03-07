@@ -1,5 +1,16 @@
 apiVersion: v1
 entries:
+  inference-service-chart:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2025-03-07T15:38:45.770366+01:00"
+    description: A Helm chart for Kubernetes
+    digest: a5c46bf0c86b0cb3321fe1025e997c042a8545508165d45b9fedee2db2df4cd9
+    name: inference-service-chart
+    type: application
+    urls:
+    - https://krateo-deploy.github.io/helm-registry/inference-service-chart-0.1.0.tgz
+    version: 0.1.0
   mlflowmodel-chart:
   - apiVersion: v2
     appVersion: v1alpha1
