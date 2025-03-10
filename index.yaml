@@ -3,9 +3,9 @@ entries:
   inference-service-chart:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2025-03-10T10:54:21.63058+01:00"
+    created: "2025-03-10T11:27:58.066309+01:00"
     description: A Helm chart for Kubernetes
-    digest: 26fded7146546ec604e889904dfcb862896a3dbb50c92ee95329efd2d3da17b8
+    digest: cd9fe34cbec49f3fac9c37341d68de99eab1c0b9b7f0893e0cb556de0bcde0a5
     name: inference-service-chart
     type: application
     urls:
