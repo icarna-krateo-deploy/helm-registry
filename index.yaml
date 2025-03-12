@@ -3,7 +3,7 @@ entries:
   inference-service-chart:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2025-03-12T13:01:26.733874+01:00"
+    created: "2025-03-12T14:35:33.659407+01:00"
     dependencies:
     - alias: portal
       condition: portal.enabled
@@ -11,7 +11,7 @@ entries:
       repository: https://charts.krateo.io
       version: 0.2.11
     description: A Helm chart for Kubernetes
-    digest: ed5ba6b7a7c80d1ab7e1ca525233a0f1554014554dd1a58873cb6ad318fdbb5c
+    digest: 825c5dc365a5452b064dc338b8d9df6d56c68fcdacf81dca7f07b30c3ce2887a
     name: inference-service-chart
     type: application
     urls:
