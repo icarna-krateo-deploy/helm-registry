@@ -3,7 +3,7 @@ entries:
   inference-service-chart:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2025-03-26T18:43:29.758318+01:00"
+    created: "2025-03-26T18:57:53.624168+01:00"
     dependencies:
     - alias: portal
       condition: portal.enabled
@@ -11,7 +11,7 @@ entries:
       repository: https://charts.krateo.io
       version: 0.2.11
     description: A Helm chart for Kubernetes
-    digest: 8be56f5a02cbca52e64d3192c414cd5458434ae79b2eb246c80b702373c75723
+    digest: c208f3d90d6baaaff1751dac6057c2dc7f5a805cc2c827927144646fd1c5438b
     name: inference-service-chart
     type: application
     urls:
@@ -19,7 +19,7 @@ entries:
     version: 0.1.4
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2025-03-26T18:43:29.757789+01:00"
+    created: "2025-03-26T18:57:53.62345+01:00"
     dependencies:
     - alias: portal
       condition: portal.enabled
@@ -35,7 +35,7 @@ entries:
     version: 0.1.3
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2025-03-26T18:43:29.754708+01:00"
+    created: "2025-03-26T18:57:53.622825+01:00"
     dependencies:
     - alias: portal
       condition: portal.enabled
@@ -51,7 +51,7 @@ entries:
     version: 0.1.2
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2025-03-26T18:43:29.751169+01:00"
+    created: "2025-03-26T18:57:53.622204+01:00"
     dependencies:
     - alias: portal
       condition: portal.enabled
@@ -67,7 +67,7 @@ entries:
     version: 0.1.1
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2025-03-26T18:43:29.747112+01:00"
+    created: "2025-03-26T18:57:53.621512+01:00"
     dependencies:
     - alias: portal
       condition: portal.enabled
@@ -84,7 +84,7 @@ entries:
   mlflowmodel-chart:
   - apiVersion: v2
     appVersion: v1alpha1
-    created: "2025-03-26T18:43:29.761749+01:00"
+    created: "2025-03-26T18:57:53.624441+01:00"
     description: A Helm chart to deploy an MlflowModel custom resource
     digest: 7438488f062957485d4f6a9a56b5c409b72e440af5a474c223201397ea4cfc78
     name: mlflowmodel-chart
@@ -95,7 +95,7 @@ entries:
   nginx-chart:
   - apiVersion: v2
     appVersion: 1.21.1
-    created: "2025-03-26T18:43:29.767312+01:00"
+    created: "2025-03-26T18:57:53.62464+01:00"
     description: Helm Chart per un'istanza di Nginx con una pagina HTML personalizzata
     digest: 65dd8ef4bd4226dce09b516701d39798c22c70aa824c326bba358c4460c93365
     name: nginx-chart
@@ -106,7 +106,7 @@ entries:
   nginx-chart-enum:
   - apiVersion: v2
     appVersion: 1.21.1
-    created: "2025-03-26T18:43:29.772326+01:00"
+    created: "2025-03-26T18:57:53.624859+01:00"
     description: Helm Chart per un'istanza di Nginx con una pagina HTML personalizzata
     digest: 1e0a5064cb7bb9515f86cbcf752f03cde87d30febaad5796b376ccc761340884
     name: nginx-chart-enum
@@ -114,4 +114,4 @@ entries:
     urls:
     - https://krateo-deploy.github.io/helm-registry/nginx-chart-enum-0.1.0.tgz
     version: 0.1.0
-generated: "2025-03-26T18:43:29.741605+01:00"
+generated: "2025-03-26T18:57:53.620616+01:00"
